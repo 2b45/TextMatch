@@ -13,8 +13,13 @@ cd TextMatch
 pip install -r requirements.txt
 export PYTHONPATH=${PYTHONPATH}:../TextMatch
 '''
-
+import os 
 import sys
+
+module_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+sys.path.append(module_path)
+
+
 from textmatch.models.text_embedding.model_factory_sklearn import ModelFactory
 
 

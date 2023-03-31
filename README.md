@@ -79,6 +79,10 @@ Let's [**Run examples**](./EXAMPLES.md) !
 ## Update 2023/3/31 
 - 尝试修改 `tf-iwf` 替换 `tf-idf` 看看效果会不会好一些。
 
+- https://github.com/xx-zhang/zero_nlp
+- https://github.com/ssbuild/chatglm_finetuning
+- https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b
+
 
 ### 样例：
 ```

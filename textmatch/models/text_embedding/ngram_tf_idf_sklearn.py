@@ -19,7 +19,7 @@ from textmatch.utils.logging import logging
 from gensim import corpora, models, similarities
 from textmatch.config.constant import Constant as const
 from textmatch.models.model_base.model_base import ModelBase
-from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.feature_extraction.text import TfidfTransformer 
 from sklearn.feature_extraction.text import CountVectorizer
 
 

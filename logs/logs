@@ -15,3 +15,5 @@
 2020-08-01 22:06:40,215 - root - INFO - [Tfidf] build tfidf model success.
 2020-08-01 22:06:40,218 - root - INFO - [NgramTfIdf] start build ngram_tfidf model.
 2020-08-01 22:06:40,220 - root - INFO - [NgramTfIdf] build ngram_tfidf model success.
+2023-03-31 08:54:57,707 - root - INFO - exec_day :2023-03-31, exec_hour :08, exec_minute :54
+2023-03-31 08:55:25,850 - root - INFO - exec_day :2023-03-31, exec_hour :08, exec_minute :55

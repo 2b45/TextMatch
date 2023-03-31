@@ -4,7 +4,7 @@
   "workbench.preferredDarkColorTheme": "GitHub Dark",
   "workbench.preferredLightColorTheme": "GitHub Dark Dimmed",
   "workbench.productIconTheme": "icons-carbon",
-  "workbench.iconTheme": "file-icons-colourless",
+  "workbench.iconTheme": "file-icons-mac",
   "workbench.fontAliasing": "antialiased",
   "workbench.sash.size": 12,
   "window.zoomLevel": 0.6, // 放大1.2倍

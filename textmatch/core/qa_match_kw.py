@@ -38,6 +38,7 @@ class QAMatchKW():
     # 关键词表中的多个关键词都要满足的。
     def get_qkw_dict(self):
         return self.qkw_dict
+    
     def get_akw_dict(self):
         return self.akw_path
 
